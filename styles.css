@@ -13,17 +13,48 @@ html{
 
 body{
     min-height: 100vh;
-    background: rgb(180, 180, 180);
+    background: rgb(255, 255, 255);
 }
 
-.title{
-    text-align: center;
+.section1{
+    font-size: .25rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+
+}
+.section2{
+    font-size: .5rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+}
+.section3{
+    font-size: .75rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+}
+.section4{
+    font-size: 1rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+}
+.section5{
+    font-size: 1.25rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+}
+.section6{
+    font-size: 1.5rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+}
+.section7{
+    font-size: 1.75rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
+}
+.section8{
+    font-size: 2rem;
+    border: 1px solid red;
+    margin-bottom: .75rem;
 }
 
-@media screen and (max-width:480px) {
-
-    h1{
-        font-size: 1.8rem;
-    }
-    
-}
